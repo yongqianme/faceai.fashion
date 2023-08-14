@@ -15,6 +15,7 @@ FaceAI.Fashion is a site to collect AI tools which are helpful for Fashion indus
       description: "FaceAI.Fashion is a site to collect AI tools which are helpful for Fashion industry, help build a zero waste fashion industry. ",
     }
 ```
+- put the screenshot of the tool in **public/toolsmedia/**
 - Save it and submit a PR. 
 
 Thanks. 
