@@ -18,7 +18,7 @@ import {
 import {
   HamburgerIcon
 } from "@chakra-ui/icons"
-import { CloseIcon, ChevronRightIcon, ChevronDownIcon } from "@chakra-ui/icons"
+import { CloseIcon, ChevronRightIcon, ChevronDownIcon, ExternalLinkIcon } from "@chakra-ui/icons"
 
 export default function WithSubnavigation() {
   const { isOpen, onToggle } = useDisclosure()
@@ -66,6 +66,9 @@ export default function WithSubnavigation() {
           spacing={6}
           display={{ base: "none", md: "flex" }}
         >
+          <Link href='https://github.com/yongqianme/faceai.fashion'>
+            <Text color={"white"} fontSize={"2xl"}>Github</Text>
+          </Link>
         </Stack>
       </Flex>
 
