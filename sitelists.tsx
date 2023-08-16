@@ -58,6 +58,18 @@ export const fashiontool_list = [
       link: "https://www.pixyle.ai",
       img_src: "/toolsmedia/pixyleai.png",
       description: "pixyle.ai is on a mission to transform the way people discover products online.They started Pixyle because today’s buyers expect nothing short of an easy and enjoyable online shopping experience.And for e-commerce brands and retailers with growing catalogues, that can be difficult to deliver.",
+    },
+    {
+      name: "FashionAI.me",
+      link: "https://www.fashionai.me",
+      img_src: "/toolsmedia/fashionaime.png",
+      description: "AI Generated Styles for your Fashion Brand. Use AI tool to modify clothing or explore fashion styles for fashion brand.",
     }
+    // {
+    //   name: "",
+    //   link: "",
+    //   img_src: "/toolsmedia/",
+    //   description: "",
+    // },
   ];
   
