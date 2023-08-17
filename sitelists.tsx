@@ -64,7 +64,13 @@ export const fashiontool_list = [
       link: "https://www.fashionai.me",
       img_src: "/toolsmedia/fashionaime.png",
       description: "AI Generated Styles for your Fashion Brand. Use AI tool to modify clothing or explore fashion styles for fashion brand.",
-    }
+    },
+    {
+      name: "AQuaAI Tools",
+      link: "https://lab.aquaai.net",
+      img_src: "/toolsmedia/aquaaitools.png",
+      description: "AQuaAL Tools is an AI tool collections to let the smart AI work for you, specially in Fashion industry, but not limited. They are offering tools like conversation, fashion concept genearation, normal image generation, lookbook generation, background remover and more in the future.",
+    },
     // {
     //   name: "",
     //   link: "",
