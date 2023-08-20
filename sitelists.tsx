@@ -71,6 +71,12 @@ export const fashiontool_list = [
       img_src: "/toolsmedia/aquaaitools.png",
       description: "AQuaAL Tools is an AI tool collections to let the smart AI work for you, specially in Fashion industry, but not limited. They are offering tools like conversation, fashion concept genearation, normal image generation, lookbook generation, background remover and more in the future.",
     },
+    {
+      name: "Wonder Dynamics",
+      link: "https://www.wonderdynamics.com",
+      img_src: "/toolsmedia/wonderdynamic.png",
+      description: "Wonder Studio is an AI tool that automatically animates, lights, and composes CG characters into a live-action scene. No need for expensive motion capture gear, complicated 3D software, and expensive production hardware — all you need with Wonder Studio is a camera. ",
+    }
     // {
     //   name: "",
     //   link: "",

@@ -91,6 +91,7 @@ export default function FashionTools() {
               {fashiontool.description}
             </FashionToolLists>
           ))}
+
         </SimpleGrid>
       </Stack>
 
