@@ -30,7 +30,7 @@ const FashionToolLists = (props: any) => {
   return (
     <Link _hover={{
       textDecoration: "none"
-    }} href={props.link} isExternal>
+    }} href={props.link+"/?via=faceai.fashion"} isExternal>
       <Card bg={useColorModeValue("#2d2d2d", "#2d2d2d")}>
         <CardHeader>
           <Box display="flex" alignItems="center" color="#A67B5B">
@@ -44,7 +44,7 @@ const FashionToolLists = (props: any) => {
           <Wrap mt="10px">
             <WrapItem >
               <TwitterShareButton
-                url={props.link}
+                url={props.link+"/?via=faceai.fashion"}
                 title={props.children + "via faceai.fashion"}
               >
                 <TwitterIcon size={16} round />
@@ -52,7 +52,7 @@ const FashionToolLists = (props: any) => {
             </WrapItem>
             <WrapItem>
               <WhatsappShareButton
-                url={props.link}
+                url={props.link+"/?via=faceai.fashion"}
                 title={props.children + "via faceai.fashion"}
               >
                 <WhatsappIcon size={16} round />
@@ -61,7 +61,7 @@ const FashionToolLists = (props: any) => {
 
             <WrapItem>
               <LineShareButton
-                url={props.link}
+                url={props.link+"/?via=faceai.fashion"}
                 title={props.children + "via faceai.fashion"}
               >
                 <LineIcon size={16} round />
