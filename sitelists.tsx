@@ -1,5 +1,17 @@
 
 export const fashiontool_list = [
+  // {
+    //   name: "",
+    //   link: "",
+    //   img_src: "/toolsmedia/",
+    //   description: "",
+    // },
+   {
+      name: "Lalaland AI",
+      link: "https://lalaland.ai",
+      img_src: "/toolsmedia/lalaland-ai.webp",
+      description: "Lalaland.ai is an AI-powered digital model studio that allows digital designers to create and customize unique avatars and lifelike models to enrich product designs.The software enables designers to create unique avatars in less than 5 minutes, customize every individual avatar including hair style, body shape, size, and skin color, and select from a range of poses, emotions, and features to enhance the overall image.",
+    },
     {
       name: "CALA",
       link: "https://ca.la",
