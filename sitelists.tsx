@@ -76,7 +76,20 @@ export const fashiontool_list = [
       link: "https://www.wonderdynamics.com",
       img_src: "/toolsmedia/wonderdynamic.png",
       description: "Wonder Studio is an AI tool that automatically animates, lights, and composes CG characters into a live-action scene. No need for expensive motion capture gear, complicated 3D software, and expensive production hardware — all you need with Wonder Studio is a camera. ",
-    }
+    },
+    {
+      name: "Stablity AI",
+      link: "https://stability.ai",
+      img_src: "/toolsmedia/stabilityai.png",
+      description: "The inventor of Stale Diffusion, the world’s leading open source generative AI company. Our goal is to maximize the accessibility of modern AI to inspire global creativity and innovation.",
+    },
+    {
+      name: "Midjourney",
+      link: "https://www.midjourney.com",
+      img_src: "/toolsmedia/midjourney.png",
+      description: "Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+    },
+
     // {
     //   name: "",
     //   link: "",
